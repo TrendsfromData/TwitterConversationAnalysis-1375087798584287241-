@@ -17,7 +17,12 @@ Comma-separated values CSV label
 The data was collected using Python script with the Twitter API for data retrival. The data consist of dirrect replies to the orignal tweet (i.e excluding quoted tweets). 
 
 ## Pre-Analysis Questions: 
-Every data analysis task should begin with some set of 'questions of interest' that warrantes such an analysis. This does not undermine the possibility of discovering insights or trends that were not beforehand thought about. For the purpose of this analysis we begin with the following questions:
+Every text mining and data analysis task should begin with some set of 'questions of interest' that warrantes such an analysis. This does not undermine the possibility of discovering insights or trends that were not beforehand thought about. For the purpose of this analysis we begin with the following questions:
+1. How do respondents feel about the post?
+2. What devices are these respondents using?
+3. What are the major themes inherent in the replies?
+4. What is the geographical representation of respondents?
+5. What is the word distribution of repsondnts like?
 
 # References
 [1] What Is Text Mining? A Beginner's Guide: (https://monkeylearn.com/text-mining/)
